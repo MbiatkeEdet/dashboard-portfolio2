@@ -50,7 +50,7 @@ export default function SiteFooter() {
         </div>
 
         <div className="mt-8 pt-4 border-t border-blue-900/10 text-center text-slate-400 text-sm">
-          © {new Date().getFullYear()} John Developer. All rights reserved.
+          © {new Date().getFullYear()} Mbiatke Nkanta. All rights reserved.
         </div>
       </div>
     </footer>
